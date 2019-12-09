@@ -1,0 +1,290 @@
+how	the nao, nhu the nao(trang tu).
+hope	hy vong(dong tu).
+house	nha, can nha(danh tu).
+hill	doi(danh tu).
+hide	tron, an nap(dong tu).
+hero	nguoi anh hung(danh tu).
+hell	dia nguc(danh tu).
+help	giup do(dong tu).
+hello	loi chao(danh tu).
+heel	got chan(danh tu).
+head	cai dau(danh tu).
+heat	suc nong(dong tu).
+heart	tim, trai tim(danh tu).
+hear	nghe(dong tu).
+hat	cai mu(danh tu).
+hall	dai sanh, toa(thi chinh)(danh tu).
+happy	vui suong, hanh phuc(tinh tu).
+happen	xay ra, xay den(dong tu).
+habit	thoi quen, tap quan(danh tu).
+insert	chen vao, long vao(dong tu).
+infection	su nhiem, su dau doc(danh tu).
+industry	cong nghiep, ky nghe(danh tu).
+income	loi tuc, thu nhap(danh tu).
+impress	ghi, khac,in sau vao(dong tu).
+import	su nhap khau(danh tu).
+impact	su va cham(danh tu).
+illustrate	minh hoa, lam ro y(dong tu).
+identify	ca tinh, net nhan dang(danh tu).
+ice cream kem(danh tu).
+ideal	quan niem, tu tuong(tinh tu).
+ice	bang, nuoc da(danh tu).
+july	thang 7(danh tu).
+jump	nhay(dong tu).
+just	dung, vua du(trang tu).
+joke	tro cuoi, loi noi dua(danh tu).
+join	gia nhap, tham gia(dong tu).
+job	viec, viec lam(danh tu).
+jam	mut(danh tu).
+know	biet(dong tu).
+knock	danh, dap(dong tu).
+knife	con dao(danh tu).
+knee	dau goi(danh tu).
+kill	giet, tieu diet(dong tu).
+keyboard	ban phim(danh tu).
+keep	giu, giu lai(dong tu).
+keen	sac, ben(tinh tu).
+key	chia khoa(danh tu).
+kid	tre con(danh tu).
+kick	da(dong tu).
+live	song(dong tu).
+listen	nghe ,lang nghe(dong tu).
+letter	thu, chu cai(danh tu).
+let	cho phep(dong tu).
+lift	gio len, nhac len(dong tu).
+light	anh sang(danh tu).
+lemon	qua chanh(danh tu).
+level	trinh do, cap(danh tu).
+lamp	den(danh tu).
+land	dat, dat canh tac(danh tu).
+lake	ho(danh tu).
+menu	thuc don(danh tu).
+march	thang ba(danh tu).
+marketing	ma-ket-tinh(danh tu).
+market	cho, thi truong(danh tu).
+mark	dau, nhan mac(danh tu).
+map	ban do(danh tu).
+manager	nguoi quan ly, giam doc(danh tu).
+magic	ma thuat, ao thuat(danh tu).
+main	chinh, chu yeu(tinh tu).
+mall	bua(danh tu).
+manage	quan ly(dong tu).
+man	dan ong(danh tu).
+now	bay gio, hien gio(trang tu).
+not	khong(trang tu).
+noisy	on ao, huyen nao(tinh tu).
+nice	dep, thu vi, de chiu(tinh tu).
+new	moi, moi me(tinh tu).
+news	tin, tin tuc(danh tu).
+near	gan, can(tinh tu).
+necessary	can, can thiet(tinh tu).
+navy	hai quan(danh tu).
+natural	thuoc ve tu nhien, thien nhien(tinh tu).
+national	thuoc ve quoc gia, dan toc(tinh tu).
+naked	tran, tro trui(tinh tu).
+nation	dan toc, quoc gia(danh tu).
+name	ten(danh tu).
+operate	hoat dong, dieu khien(dong tu).
+opinon	y kien, quan diem(danh tu).
+oppose	doi khang(dong tu).
+onion	cu hanh(danh tu).
+open	mo, ngo(tinh tu).
+only	chi co mot, duy nhat(tinh tu).
+offten	thuong, hay, luon(trang tu).
+off	tat(trang tu).
+ocean	dai duong(danh tu).
+occupy	giu, chiem linh(dong tu).
+object	vat, vat the(danh tu).
+police	canh sat, cong an(danh tu).
+point	diem(danh tu).
+plus	dau cong(danh tu).
+plant	thuc vat(danh tu).
+pilot	phi cong(danh tu).
+pig	con lon(danh tu).
+pet	vat cung(danh tu).
+permit	cho phep(dong tu).
+people	dan toc, dong giong(danh tu).
+pause	tam nghi, tam dung(dong tu).
+park	cong vien, vuon hoa(danh tu).
+pan	xoong, chao(danh tu).
+pair	doi, cap(danh tu).
+pack	goi, boc(dong tu).
+relax	giai tri(dong tu).
+region	vung, mien(danh tu).
+reflect	phan chieu, phan hoi(dong tu).
+red	mau do(danh tu).
+receive	nhan, linh, thu(dong tu).
+real	thuc, thuc te(tinh tu).
+rain	mua, con mua(danh tu).
+radio	song vo tuyen(danh tu).
+rate	ty le, toc do(danh tu).
+rare	hiem, it(tinh tu).
+rank	hang, day(danh tu).
+system	he thong(danh tu).
+search	su tim kiem, su tham do(danh tu).
+secret	bi mat(tinh tu).
+season	mua(danh tu).
+screen	man hinh(danh tu).
+score	diem so, ban thang(danh tu).
+seal	hai cau(danh tu).
+sea	bien(danh tu).
+school	truong hoc(danh tu).
+saving	su tiet kiem(danh tu).
+say	noi(dong tu).
+safe	an toan, chac chan(tinh tu).
+sail	di tau, thuyen(dong tu).
+salary	tien luong(danh tu).
+team	doi, nhom(danh tu).
+teacher	giao vien(danh tu).
+tea	cay che, tra(danh tu).
+taxi	xe tac xi(danh tu).
+taste	vi, vi giac(danh tu).
+tall	cao(tinh tu).
+task	nhiem vu, nghia vu(danh tu).
+talk	noi chuyen, tro chuyen(dong tu).
+table	cai ban(danh tu).
+tablet	tam, ban, the phien(danh tu).
+tail	duoi(danh tu).
+tae	su cam nam(dong tu).
+urge	thuc, giuc(dong tu).
+usually	thuong thuong(trang tu).
+user	nguoi dung, nguoi su duong(danh tu).
+upset	lam do, danh do(dong tu).
+upper	cao hon(tinh tu).
+union	lien hiep, su doan ket(danh tu).
+uncle	chu, bac(danh tu).
+umbrella	o, du(danh tu).
+underwater	o duoi mat nuoc(tinh tu).
+understand	hieu, nhan thuc(dong tu).
+unhappy	buon rau, khon kho(tinh tu).
+vote	su bo phieu(danh tu).
+voice	tieng, giong noi(danh tu).
+vision	su nhin, thi luc, tam nhin(danh tu).
+vast	rong lon, menh mong(tinh tu).
+value gia tri(danh tu).
+valley	thung lung(danh tu).
+window	cua so(danh tu).
+wind	gio(danh tu).
+wife	vo(danh tu).
+where	o dau(trang tu).
+way	duong, duong di(danh tu).
+water	nuoc(danh tu).
+want	muon(dong tu).
+war	chien tranh(danh tu).
+wallet	cai vi(danh tu).
+wall	tuong, vach(danh tu).
+wait	cho doi(dong tu).
+young	tre, tuoi tre(tinh tu).
+year	nam(danh tu).
+zone	khu vuc, mien(danh tu).
+zero	so khong
+amaze	lam ngac nhien, lam sung sot(dong tu).
+air	khong khi(danh tu).
+airport	san bay(danh tu).
+alarm	bao dong(danh tu).
+allow	cho phep(dong tu).
+afternoon	buoi chieu(danh tu).
+ahead	truoc(trang tu).
+agree	dong y(dong tu).
+ago	truoc day(trang tu).
+advice	loi khuyen(danh tu).
+advise	khuyen(dong tu).
+affair	viec(danh tu).
+age	tuoi(danh tu).
+again	lan nua(trang tu).
+achieve	dat duoc(dong tu).
+accuse	to cao(dong tu).
+acknowledge	cong nhan(dong tu).
+adapt	lap vao(dong tu).
+admit	ket hop(dong tu).
+action	hanh dong(danh tu).
+actor	dien vien(danh tu).
+add	them vao(dong tu).
+adjust	dieu chinh(dong tu).
+active	tich cu hoat dong(tinh tu).
+admire	kham phuc(than phuc).
+address	dia chi(danh tu).
+abandoned	bi bo roi(tinh tu).
+abuse	long hanh(danh tu).
+absence	su vang mat(danh tu).
+ability	kha nang(danh tu).
+abandon	tu bo(dong tu).
+able	co nang luc(tinh tu).
+about	khoang(tinh tu).
+absorb	thu hut(dong tu).
+accident	tai nan(danh tu).
+access	duong vao(danh tu).
+accept	chap nhan(dong tu).
+accompany	di theo(dong tu).
+account	tai khoan(danh tu).
+bear	mang, cam, vac(dong tu).
+basic	co ban, co so(tinh tu).
+basis	ne tang, co so(danh tu).
+bath	su tam(danh tu).
+bar	quan ban ruou(danh tu).
+bank	bo song, bo de(danh tu).
+ban	cam, cam chi(danh tu).
+ball	qua bong(danh tu).
+band	bang, dai, nep(danh tu).
+bag	cap xach(danh tu).
+cat	con meo(danh tu).
+captain	nguoi thu linh(danh tu).
+car	xe hoi(danh tu).
+candy	keo(danh tu).
+capable	co tai, co nang luc(tinh tu).
+cap	mu luoi trai(danh tu).
+camera	may anh(danh tu).
+camping	su cam trai(danh tu).
+camp	trai, cho cam trai(danh tu).
+calm	su yen lang, lam diu di(tinh tu).
+define	dinh nghia(dong tu).
+defeat	danh thang(dong tu).
+deep	sau, bi an(tinh tu).
+dog	con cho(danh tu).
+dicision	su quyet dinh, su giai quyet(danh tu).
+decide	quyet dinh, giai quyet(dong tu).
+deal	phan phat, phan phoi(dong tu).
+dark	toi tam, bong toi(tinh tu).
+day	ban ngay(danh tu).
+data	so lieu, du lieu(danh tu).
+dad	bo, cha(danh tu).
+daily	hang ngay(tinh tu).
+end	gioi han, su ket thuc(danh tu).
+election	su bau cu(danh tu).
+effort	su co gang, su no luc(danh tu).
+egg	trung(danh tu).
+east	huong dong(danh tu).
+edge	luoi, canh sac(danh tu).
+easy	de dang, ung dung(tinh tu).
+education	su giao duc(danh tu).
+effect	hieu qua, hieu ung(danh tu).
+eat	an(dong tu).
+earth	trai dat(danh tu).
+firm	hang, cong ty(danh tu).
+fire	lua(danh tu).
+find	tim, thay thay(dong tu).
+file	ho so, tai lieu(danh tu).
+father	cha, bo(danh tu).
+feel	cam thay(dong tu).
+farmer	nong dan(danh tu).
+farm	trang trai(danh tu).
+far	xa(trang tu).
+fancy	tuong tuong(dong tu).
+fan	nguoi ham mo(danh tu).
+famous	noi tieng(tinh tu).
+family	gia dinh(danh tu).
+factory	nha may, xi nghiep(danh tu).
+fail	sai, that bai(dong tu).
+fact	viec, su viec(danh tu).
+grand	rong lon, vi dai(tinh tu).
+grammar	van pham(danh tu).
+grab	tum lay, vo, chop lay(dong tu).
+good	tot, hay, tuyet(tinh tu).
+gold	vang(danh tu).
+go	di(dong tu).
+glass	kinh, thuy tinh(danh tu).
+get	duoc, co duoc(dong tu).
+generate	sinh, de ra(dong tu).
+gas	khi, hoi dot(danh tu).
+game	tro choi(danh tu).
+gain	loi, loi ich(dong tu).
